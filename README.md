@@ -35,10 +35,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Application Screenshots
 <img width="1410" alt="Screenshot 2023-06-21 at 11 52 17 AM" src="https://github.com/OwusuIsaac/Journal_WebApp/assets/105105471/ffce3763-4b3d-445d-8a3a-14cb4b1c31b1">
-![Screenshot 2023-06-21 at 11 53 32 AM](https://github.com/OwusuIsaac/Journal_WebApp/assets/105105471/ae5ad44c-9dfb-4f12-b16b-251d47ab6742)
-![Screenshot 2023-06-21 at 11 54 48 AM](https://github.com/OwusuIsaac/Journal_WebApp/assets/105105471/625ad767-b7f5-4fb2-98ce-0e8fb14b1d96)
-
-
-
-
-
+<img width="1410" alt="Screenshot 2023-06-21 at 11 53 08 AM" src="https://github.com/OwusuIsaac/Journal_WebApp/assets/105105471/aebb46f8-93f8-4e99-bbc1-c96b66f6c8c7">
+<img width="1410" alt="Screenshot 2023-06-21 at 11 54 48 AM" src="https://github.com/OwusuIsaac/Journal_WebApp/assets/105105471/625ad767-b7f5-4fb2-98ce-0e8fb14b1d96">
